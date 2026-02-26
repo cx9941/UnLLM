@@ -1,0 +1,10 @@
+oracle
+hibernate
+cocoa
+magento
+svn
+ajax
+bash
+excel
+qt
+drupal

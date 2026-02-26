@@ -1,0 +1,15 @@
+alt.atheism
+comp.os.ms-windows.misc
+comp.sys.ibm.pc.hardware
+comp.sys.mac.hardware
+comp.windows.x
+misc.forsale
+rec.autos
+rec.sport.baseball
+rec.sport.hockey
+sci.electronics
+sci.med
+sci.space
+soc.religion.christian
+talk.politics.guns
+talk.politics.misc

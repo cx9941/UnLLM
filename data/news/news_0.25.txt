@@ -1,0 +1,5 @@
+alt.atheism
+comp.sys.mac.hardware
+rec.autos
+sci.electronics
+soc.religion.christian

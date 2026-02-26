@@ -1,0 +1,22 @@
+{
+    "scala": "A high-level programming language that combines object-oriented and functional programming paradigms. It is designed to be concise and interoperable with Java.",
+    "oracle": "A popular database management system known for its robustness and enterprise-level features, often used in large-scale applications.",
+    "hibernate": "An open-source Java-based ORM (Object-Relational Mapping) framework that simplifies data handling by mapping Java objects to database tables.",
+    "cocoa": "A native API for macOS and iOS development, providing a framework for building graphical user interfaces and other functionality.",
+    "osx": "The former name of macOS, the operating system developed by Apple for its Mac computers, known for its Unix-based architecture.",
+    "sharepoint": "A web-based collaborative platform by Microsoft, used for document management, storage, and team collaboration.",
+    "matlab": "A high-level programming language and environment for numerical computing, widely used in engineering and scientific applications.",
+    "haskell": "A purely functional programming language with strong static typing and lazy evaluation, often used for research and advanced programming tasks.",
+    "wordpress": "A popular open-source content management system (CMS) used for creating websites and blogs, known for its flexibility and plugin ecosystem.",
+    "spring": "A comprehensive Java-based framework for building enterprise applications, providing support for dependency injection, aspect-oriented programming, and more.",
+    "magento": "An open-source e-commerce platform written in PHP, offering a flexible and feature-rich system for building online stores.",
+    "svn": "Short for Subversion, a version control system that helps developers manage changes to source code over time.",
+    "ajax": "A set of web development techniques for creating asynchronous web applications, enabling data exchange without refreshing the entire page.",
+    "bash": "A Unix shell and command language, widely used for scripting and task automation in Linux and macOS environments.",
+    "excel": "A spreadsheet software developed by Microsoft, used for data analysis, visualization, and computation.",
+    "linq": "Language Integrated Query, a .NET library by Microsoft that provides query capabilities for C# and VB.NET, enabling operations on data collections.",
+    "qt": "A cross-platform C++ framework for developing graphical user interfaces and applications.",
+    "drupal": "An open-source content management system (CMS) used for building websites and applications, known for its flexibility and scalability.",
+    "apache": "A widely-used open-source web server software that powers a significant portion of websites on the internet.",
+    "visual-studio": "An integrated development environment (IDE) by Microsoft, used for developing software applications in various programming languages."
+  }

@@ -1,0 +1,20 @@
+# conda install -c nvidia cuda-nvcc
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+# pip install flash-attn --no-build-isolation
+# export CUDA_HOME=/root/miniconda3/envs/py312
+# export PATH=$CUDA_HOME/bin:$PATH
+
+accelerate
+numpy
+scikit-learn
+scipy
+tqdm
+transformers
+wandb
+trl==0.10.1
+deepspeed
+peft
+bitsandbytes
+pytorch_ood
+qwen_vl_utils

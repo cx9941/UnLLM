@@ -1,0 +1,12 @@
+Amplifier
+Car_Stereo
+DVDPlayer
+Headphone
+Home_Theater_System
+Microphone
+Mouse
+Projector
+Rice_Cooker
+Vacuum
+Video_Player
+Voice_Recorder
