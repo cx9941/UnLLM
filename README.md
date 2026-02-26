@@ -82,3 +82,23 @@ Train and test the UnLLM:
 ```
 sh scripts/run.sh
 ```
+
+
+## Citation
+
+If you find our work is useful for your research, please consider citing:
+
+```
+@inproceedings{
+chen2026beyond,
+title={Beyond the Known: An Unknown-Aware Large Language Model for Open-Set Text Classification},
+author={Xi Chen and Chuan Qin and Ziqi Wang and Shasha Hu and Chao Wang and Hengshu Zhu and Hui Xiong},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=BqLGlQF46f}
+}
+```
+
+## License
+
+This project is licensed under the MIT License.
