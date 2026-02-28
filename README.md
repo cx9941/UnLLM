@@ -14,7 +14,7 @@ However, existing approaches largely follow the post-hoc OOD detection paradigm 
 In this work, we present **UnLLM**, an Unknown-aware Large Language Model for OSTC. Instead of fixing classification to the entire known label space, we reformulate it into a subset-conditioned classification task: the LLM is prompted with sampled subsets of known labels, and any instance outside the candidate set is explicitly assigned as an “unknown” class. This reformulation transforms OOD detection from a post-hoc procedure into an intrinsic modeling capability.
 Grounded in this formulation, the modeling of the “unknown” is further systematically realized through a unified \textbf{representation–probability–inference optimization, which progressively strengthens the model’s capacity to capture open-set risk.
 Extensive experiments across six benchmarks show that **UnLLM** consistently outperforms state-of-the-art (SOTA) baselines.
-Code is available in an anonymous GitHub repository: https://github.com/cx9941/UnLLM.
+Code and datasets are available at: https://github.com/cx9941/UnLLM.
 
 ## Installation
 
